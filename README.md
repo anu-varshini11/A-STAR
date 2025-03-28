@@ -50,7 +50,7 @@
 
 ``````
 <h2>PROGRAM :</h2>
-```
+``````
 from collections import defaultdict
 H_dist ={}
 def aStarAlgo(start_node, stop_node):
@@ -118,7 +118,7 @@ Graph_nodes=graph
 start=input()
 goal=input()
 aStarAlgo(start, goal)
-```
+``````
 
 <hr>
 <h2>Sample Graph I</h2>
@@ -158,6 +158,7 @@ J 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'F', 'G', 'I', 'J']
+<br>
 ![Screenshot 2025-03-28 161301](https://github.com/user-attachments/assets/7a9faf0c-1c8c-49bb-b70b-9e25a07c3ccf)
 
 
@@ -189,6 +190,7 @@ G 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
+<br>
 ![Screenshot 2025-03-28 161500](https://github.com/user-attachments/assets/48b0151e-635d-440f-b5c7-889ca11a1d21)
 
 <h2>RESULT :</h2>
