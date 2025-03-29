@@ -176,6 +176,7 @@ G 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
+
 ![Screenshot 2025-03-28 161500](https://github.com/user-attachments/assets/e551ec4b-97d3-4c24-962b-2e0f391fbe4e)
 
 
